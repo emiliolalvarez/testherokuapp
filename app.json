@@ -1,0 +1,16 @@
+{
+  "name": "testherokuapp",
+  "description": "Test heroku app",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
